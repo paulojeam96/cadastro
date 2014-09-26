@@ -4,7 +4,8 @@
 	<meta charset="UTF-8">
 </head>
 <body> 
-	<p align="center"><big><big>
+    
+        <p align="center"><big><big>
 		<strong>Cadastramento - Etapa 1 de 3</strong></big></big>
 	</p> 
 	
@@ -14,6 +15,7 @@
 				<p>Nome: <input type="text" name="nome" size="20"></p>
 			</center>
 		</div>
+            
 		<div align="center">
 			<center> 
 				<p>E-mail: <input type="text" name="email" size="20"></p> 

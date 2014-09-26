@@ -32,7 +32,7 @@
  		</center></div>
 
 		<div align="center"><center>
-			<p><input type="submit" value="Finalizar Cadastro" name="fim"></p> 
+			<p><input type="submit" value="Finalizar Cadastro" name="cadastra"></p> 
  		</center></div> 
 	</form> 
 </body> 
